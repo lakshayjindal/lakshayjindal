@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lakshayjindal.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning python/Django development.
-- 💞️ I’m looking to collaborate on web developemnt projects.
+- 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me "Here's my email: ljindal275@gmail.com"
 
 <!---
